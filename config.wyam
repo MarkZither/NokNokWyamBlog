@@ -1,0 +1,8 @@
+Settings.Host = "blog.mark-burton.com";
+GlobalMetadata["Title"] = "Mark Burton";
+GlobalMetadata["Description"] = "The NokNok blog";
+GlobalMetadata["Intro"] = "Hi, welcome to the blog!";
+Settings[BlogKeys.Title] = "NokNok";
+
+#n -p Wyam.Markdown
+#n -p Wyam.Yaml

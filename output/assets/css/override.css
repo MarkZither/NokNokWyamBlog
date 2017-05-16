@@ -1,0 +1,64 @@
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons .sr-only {
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+.disqus
+	{
+		background: #FFFFFF url('../images/disqus-social-icon-blue-transparent.png');
+		background-position: center center;
+		background-size: auto 100%;
+		background-repeat: no-repeat;
+		text-align: center;
+	}
+
+/*.intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
+    color: black;
+}
+
+hr.small {
+    max-width: 100px;
+    margin: 15px auto;
+    border-width: 4px;
+    border-color: black;
+}
+
+@media only screen and (min-width: 768px){
+  .navbar-custom .nav li a {
+      color: black; 
+      padding: 20px;
+  }
+  .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #333;
+    background-color: transparent;
+  }
+
+  .navbar-custom .navbar-brand {
+      color: black;
+      padding: 20px;
+  }
+
+    .navbar-custom .navbar-brand:hover {
+      color: black;
+      padding: 20px;
+  }
+      .navbar-custom .navbar-brand:focus {
+      color: black;
+      padding: 20px;
+  }
+}*/

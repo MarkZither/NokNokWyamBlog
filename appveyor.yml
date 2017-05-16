@@ -25,7 +25,7 @@ install:
 
 artifacts:
 # pushing entire folder as a zip archive
-  - path: 'output/**'
+  - path: '**'
     type: WebDeployPackage
 
 build_script:

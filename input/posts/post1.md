@@ -1,5 +1,5 @@
 Title: Klient popytowy i nowe możliwości
-Published: 2017-05-15
+Published: 2017-05-16
 Tags: 
   -  klient popytowy współpraca
   - aplikacja
@@ -30,6 +30,14 @@ Aplikacja jest bardzo łatwa w obsłudze. Na menu główne składają się:
 Oferty można sortować po: rodzaju transakcji (klient kupujący/najmujący) oraz po typie nieruchomości (mieszkanie/dom). Można także wybierać konkretne dzielnice miast, a gdy już znajdziemy tzw. „match’a”, kontaktujemy się bezpośrednio z agentem prowadzącym danego klienta. Na koniec dogadujemy szczegóły i warunki współpracy, a w konsekwencji usprawniamy sprzedaż. 
 W odpowiedzi na komentarze i sugestie użytkowników NokNok MLS, wprowadziliśmy także funkcję dodawania klienta z poziomu aplikacji. Wystarczy kliknąć w plus (+) w prawnym dolnym rogu i uzupełnić pola (numer ref., rodzaj transakcji, typ nieruchomości, budżet jakim dysponuje Twój klient, preferowana lokalizacja, metraż, ilość pokoi oraz dodatki). 
 Więcej dowiesz się w sekcji [JAK TO DZIAŁA](https://noknok.pl/Home/HowItWorks), na naszej stronie.
+
+**Nowość**
+
+Teraz możesz również zaprosić do swojej sieci doradców kredytowych, z którymi współpracujesz i przeglądać ich klientów w aplikacji NokNok MLS.
+
+W panelu ustawień dodaj adres e-mail doradcy kredytowego, z którymi współpracuje Twoje biuro. Określ jakim procentem z Twojej prowizji chcesz się podzielić z doradcą przy zakupie nieruchomości przez jego klienta.
+
+Zaloguj się do aplikacji NokNok MLS i przeglądaj klientów popytowych udostępnionych Ci przez doradcę kredytowego. Skontaktuj się z nim bezpośrednio, jeśli masz w swojej ofercie nieruchomość dla jego klienta.  
 
 
 

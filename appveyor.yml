@@ -20,6 +20,7 @@ install:
   - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
   - pwd
   - ls
+  - cd ..
 
 #---------------------------------#
 #      artifacts configuration    #
@@ -27,11 +28,11 @@ install:
 
 artifacts:
 # pushing entire folder as a zip archive
-  - path: 'Output\**\*.*'
+  - path: 'output'
     type: WebDeployPackage
 
 build_script:
-  - ..\Wyam\wyam  --recipe Blog --theme CleanBlog --output ..\output
+  - Wyam\wyam  --recipe Blog --theme CleanBlog --output output
 
 on_success:
   # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push

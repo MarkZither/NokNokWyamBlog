@@ -1,5 +1,5 @@
 ﻿Title: Witaj na naszym blogu
-Published: 2017-05-03
+Published: 2017-05-04
 Tags: Wprowadzenie
 ---
 # Witaj na naszym blogu

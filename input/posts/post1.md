@@ -4,6 +4,7 @@ Tags:
   -  klient popytowy współpraca
   - aplikacja
   - wyszukiwarka klientów 
+---
 
 **Wartość klienta popytowego**
 

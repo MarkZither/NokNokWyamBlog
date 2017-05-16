@@ -19,6 +19,15 @@ install:
   - ps: Start-FileDownload "https://github.com/Wyamio/Wyam/releases/download/$env:WYAMVERSION/Wyam-$env:WYAMVERSION.zip" -FileName "..\Wyam\Wyam.zip"
   - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
 
+#---------------------------------#
+#      artifacts configuration    #
+#---------------------------------#
+
+artifacts:
+# pushing entire folder as a zip archive
+  - path: '..\Output\**\*.*'
+  - type: WebDeployPackage
+
 build_script:
   - ..\Wyam\wyam  --recipe Blog --theme CleanBlog --output ..\output
 

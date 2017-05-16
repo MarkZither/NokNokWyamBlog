@@ -26,7 +26,7 @@ install:
 artifacts:
 # pushing entire folder as a zip archive
   - path: '..\Output\**\*.*'
-  - type: WebDeployPackage
+    type: WebDeployPackage
 
 build_script:
   - ..\Wyam\wyam  --recipe Blog --theme CleanBlog --output ..\output

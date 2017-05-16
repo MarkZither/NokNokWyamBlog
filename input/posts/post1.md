@@ -1,9 +1,10 @@
 Title: Klient popytowy i nowe możliwości
 Published: 2017-05-16
 Tags: 
-  -  klient popytowy współpraca
+  - klient popytowy współpraca
   - aplikacja
   - wyszukiwarka klientów 
+---
 
 **Wartość klienta popytowego**
 

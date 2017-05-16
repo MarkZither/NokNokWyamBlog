@@ -26,3 +26,39 @@ ul.share-buttons .sr-only {
 		background-repeat: no-repeat;
 		text-align: center;
 	}
+
+/*.intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
+    color: black;
+}
+
+hr.small {
+    max-width: 100px;
+    margin: 15px auto;
+    border-width: 4px;
+    border-color: black;
+}
+
+@media only screen and (min-width: 768px){
+  .navbar-custom .nav li a {
+      color: black; 
+      padding: 20px;
+  }
+  .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #333;
+    background-color: transparent;
+  }
+
+  .navbar-custom .navbar-brand {
+      color: black;
+      padding: 20px;
+  }
+
+    .navbar-custom .navbar-brand:hover {
+      color: black;
+      padding: 20px;
+  }
+      .navbar-custom .navbar-brand:focus {
+      color: black;
+      padding: 20px;
+  }
+}*/

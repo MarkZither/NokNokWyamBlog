@@ -30,7 +30,7 @@
     </div>
     <div class="col-sm-4 sidebar">
         <hr class="visible-xs-block" />
-        <h5>Tags</h5>
+        <h5>Tagi</h5>
         <div>
             @foreach (IDocument tagDocument in Documents[BlogPipelines.Tags]
                                                 .GroupBy(x => x.String(BlogKeys.Tag)).Select(x => x.Where(p => p.Get<int>(Keys.CurrentPage) == 1).First())
@@ -43,20 +43,23 @@
         </div>
         <ul class="pager">
             <li class="next">
-                <a href="/tags">View All Tagsss &rarr;</a>
+                <a href="/tags">Przeglądaj tagi &rarr;</a>
             </li>
         </ul>
         <hr />
-        <h5>Older Posts</h5>
+        @if(Documents[Blog.Posts].Count() > 3)
+            {  
+        <h5>Niedawno:</h5>
         <ul class="list-unstyled">
             @foreach(IDocument doc in Documents[Blog.Posts].Skip(3).Take(4))
             {        
                 <li><a href="@Context.GetLink(doc)">@doc.WithoutSettings.String(BlogKeys.Title)</a></li>
             }
         </ul>
+            }
         <ul class="pager">
             <li class="next">
-                <a href="@Context.GetLink(Context.String(BlogKeys.PostsPath))">Archive &rarr;</a>
+                <a href="@Context.GetLink(Context.String(BlogKeys.PostsPath))">ARCHIWUM &rarr;</a>
             </li>
         </ul>
 

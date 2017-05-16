@@ -1,7 +1,8 @@
-﻿Title: First Post
-Published: 2017-01-12
-Tags: Introduction
+﻿Title: Witaj na naszym blogu
+Published: 2017-05-03
+Tags: Wprowadzenie
 ---
-# Welcome to NokNok
+# Witaj na naszym blogu
 
-Latest release includes a various changes in response to your feedback and the first version of our [Windows 10 app](https://www.microsoft.com/en-gb/store/p/noknok-mls/9n337d06v5xr) for Windows 10 desktop, tablet and mobile phones.
+Tak jak już wspomnieliśmy we wprowadzeniu, na blogu będziemy zamieszczać informacje o wszelkich zmianach na naszej platformie i w aplikacji mobilnej. Zapraszamy do regularnego odwiedzania naszego bloga.
+Już teraz możesz korzystać z aplikacji NokNok MLS na swoim Windows Phone, tablecie oraz Windowsie 10. [Wypróbuj już dziś!](https://www.microsoft.com/en-gb/store/p/noknok-mls/9n337d06v5xr).

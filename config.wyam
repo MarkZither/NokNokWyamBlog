@@ -1,8 +1,9 @@
-Settings.Host = "blog.mark-burton.com";
-GlobalMetadata["Title"] = "Mark Burton";
-GlobalMetadata["Description"] = "The NokNok blog";
-GlobalMetadata["Intro"] = "Hi, welcome to the blog!";
+Settings[Keys.Host] = "blog.noknok.pl";
+Settings[BlogKeys.Description] = "Blog noknok.pl";
+Settings[BlogKeys.Intro] = "Witaj na naszym blogu!";
 Settings[BlogKeys.Title] = "NokNok";
+Settings[BlogKeys.Image] = "/assets/images/background.png";
+Settings[BlogKeys.HeaderTextColor] = "black";
 
 #n -p Wyam.Markdown
 #n -p Wyam.Yaml

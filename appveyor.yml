@@ -9,22 +9,17 @@ environment:
 
 install:
   - git submodule update --init --recursive
-  - cd ..
-  - pwd
-  - ls
-  - mkdir Wyam
-  - mkdir output
+  - mkdir ..\Wyam
+  - mkdir ..\output
   # Fetch the latest version of Wyam 
-  - cd Wyam
-  - curl -s https://raw.githubusercontent.com/Wyamio/Wyam/master/RELEASE -o wyamversion.txt
-  - set /P WYAMVERSION=< wyamversion.txt
+  - "curl -s https://raw.githubusercontent.com/Wyamio/Wyam/master/RELEASE -o ..\\Wyam\\wyamversion.txt"
+  - set /P WYAMVERSION=< ..\Wyam\wyamversion.txt
   - echo %WYAMVERSION%
-  - cd ..
+  # Get and unzip the latest version of Wyam
+  - ps: Start-FileDownload "https://github.com/Wyamio/Wyam/releases/download/$env:WYAMVERSION/Wyam-$env:WYAMVERSION.zip" -FileName "..\Wyam\Wyam.zip"
+  - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
   - pwd
   - ls
-  # Get and unzip the latest version of Wyam
-  - ps: Start-FileDownload "https://github.com/Wyamio/Wyam/releases/download/$env:WYAMVERSION/Wyam-$env:WYAMVERSION.zip" -FileName "Wyam\Wyam.zip"
-  - 7z x Wyam\Wyam.zip -o
 
 #---------------------------------#
 #      artifacts configuration    #
@@ -32,11 +27,11 @@ install:
 
 artifacts:
 # pushing entire folder as a zip archive
-  - path: 'output'
+  - path: 'Output\**\*.*'
     type: WebDeployPackage
 
 build_script:
-  - Wyam\wyam  --recipe Blog --theme CleanBlog --output output
+  - ..\Wyam\wyam  --recipe Blog --theme CleanBlog --output ..\output
 
 on_success:
   # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
@@ -50,7 +45,7 @@ on_success:
   - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
   - git checkout gh-pages
   - git rm -rf .
-  - xcopy output . /E
+  - xcopy ..\output . /E
   # EDIT your domain name or remove if not using a custom domain
   #- echo wyam.io > CNAME
   # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes

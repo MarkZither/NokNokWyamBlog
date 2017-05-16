@@ -10,6 +10,8 @@ environment:
 install:
   - git submodule update --init --recursive
   - cd ..
+  - pwd
+  - ls
   - mkdir Wyam
   - mkdir output
   # Fetch the latest version of Wyam 

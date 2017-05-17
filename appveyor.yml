@@ -38,6 +38,13 @@ artifacts:
     type: WebDeployPackage
 
 deploy:
+- provider: FTP
+  host: noknok.com.pl
+  protocol: ftp
+  username: jnaughton-AppVeyorBlog
+  password:
+    secure: oNiPzH/wQeUgfW1lGHhFDzhhL1gLaSZ+9JD2ovtmW/k=
+  artifact: output
 - provider: WebDeploy
   server: ssl8.webio.pl:8172/msdeploy.axd?site=blog.noknok.pl
   website: blog.noknok.pl

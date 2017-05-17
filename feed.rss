@@ -5,8 +5,8 @@
 		<link>http://blog.noknok.pl/</link>
 		<description>Blog noknok.pl</description>
 		<copyright>2017</copyright>
-		<pubDate>Wed, 17 May 2017 08:51:03 GMT</pubDate>
-		<lastBuildDate>Wed, 17 May 2017 08:51:03 GMT</lastBuildDate>
+		<pubDate>Wed, 17 May 2017 10:19:42 GMT</pubDate>
+		<lastBuildDate>Wed, 17 May 2017 10:19:42 GMT</lastBuildDate>
 		<item>
 			<title>Klient popytowy i nowe możliwości</title>
 			<link>http://blog.noknok.pl/posts/post1</link>
@@ -22,6 +22,14 @@
 			<enclosure url="http://blog.noknok.pl/assets/images/background.png" length="0" type="image" />
 			<guid>http://blog.noknok.pl/posts/first%20blog</guid>
 			<pubDate>Thu, 04 May 2017 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Klient popytowy i nowe możliwości</title>
+			<link>http://blog.noknok.pl/posts/temp%20blog</link>
+			<description>Blog noknok.pl</description>
+			<enclosure url="http://blog.noknok.pl/assets/images/background.png" length="0" type="image" />
+			<guid>http://blog.noknok.pl/posts/temp%20blog</guid>
+			<pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

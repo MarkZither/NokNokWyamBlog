@@ -46,10 +46,10 @@ deploy:
   artifact: output
 
 build_script:
-  - Wyam\wyam noknokwyamblog --recipe Blog --theme CleanBlog --output output
+  - Wyam\wyam noknokwyamblog --recipe Blog --theme CleanBlog --output wwwroot
   - pwd
   - ls
-  - xcopy noknokwyamblog\output wwwroot\ /Esy
+  - xcopy noknokwyamblog\wwwroot wwwroot\ /Esy
   - ls wwwroot
 
 

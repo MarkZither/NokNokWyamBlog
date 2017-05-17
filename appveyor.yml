@@ -32,9 +32,10 @@ artifacts:
     type: WebDeployPackage
 
 build_script:
-  - Wyam\wyam  --recipe Blog --theme CleanBlog --output output
+  - Wyam\wyam noknokwyamblog --recipe Blog --theme CleanBlog --output output
   - pwd
   - ls
+  - xcopy . ..\output /E
 
 
 on_success:

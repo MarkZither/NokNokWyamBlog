@@ -39,7 +39,7 @@ artifacts:
 
 deploy:
 - provider: WebDeploy
-  server: ssl8.webio.pl:8172
+  server: ssl8.webio.pl:8172/msdeploy.axd?site=blog.noknok.pl
   website: blog.noknok.pl
   username: blog.noknok.pl_dploy
   password:

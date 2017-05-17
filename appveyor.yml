@@ -22,6 +22,11 @@ install:
   - ls
   - cd ..
 
+build:
+  publish_wap: true
+  verbosity: minimal
+
+
 #---------------------------------#
 #      artifacts configuration    #
 #---------------------------------#
@@ -29,8 +34,18 @@ install:
 artifacts:
 # pushing entire folder as a zip archive
   - path: 'output'
+    name: output
     type: WebDeployPackage
 
+deploy:
+- provider: WebDeploy
+  server: ssl8.webio.pl:8172
+  website: blog.noknok.pl
+  username: blog.noknok.pl_dploy
+  password:
+    secure: cTTbrZUUpmm2XCSdRu1qnj0d6w4s7+bdXR4J+ttYG/s=
+  artifact: output
+  
 build_script:
   - Wyam\wyam noknokwyamblog --recipe Blog --theme CleanBlog --output output
   - pwd

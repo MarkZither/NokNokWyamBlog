@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="/" />
-	<id>/</id>
-	<title>My Blog</title>
-	<rights>2017</rights>
-	<updated>2017-05-17T06:09:24Z</updated>
-	<subtitle>Welcome!</subtitle>
-</feed>

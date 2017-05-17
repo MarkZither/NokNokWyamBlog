@@ -50,6 +50,7 @@ build_script:
   - pwd
   - ls
   - xcopy noknokwyamblog\output wwwroot\ /Esy
+  - ls wwwroot
 
 
 on_success:

@@ -35,12 +35,12 @@ build_script:
   - Wyam\wyam  --recipe Blog --theme CleanBlog --output output
   - pwd
   - ls
-  - cd output
-  - ls
+
 
 on_success:
   - pwd
   - ls
+  - cd noknokwyamblog 
   # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
   # See http://www.appveyor.com/docs/how-to/git-push for more info
   - git config --global credential.helper store

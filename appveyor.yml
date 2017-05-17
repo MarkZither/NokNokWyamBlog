@@ -35,7 +35,7 @@ build_script:
   - Wyam\wyam noknokwyamblog --recipe Blog --theme CleanBlog --output output
   - pwd
   - ls
-  - xcopy . ..\output\ /E
+  - xcopy output\ ..\output\ /E
 
 
 on_success:

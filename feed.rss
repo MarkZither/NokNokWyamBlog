@@ -1,27 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 	<channel>
-		<title>NokNok</title>
-		<link>http://blog.noknok.pl/</link>
-		<description>Blog noknok.pl</description>
+		<title>My Blog</title>
+		<link>/</link>
+		<description>Welcome!</description>
 		<copyright>2017</copyright>
-		<pubDate>Tue, 16 May 2017 18:46:26 GMT</pubDate>
-		<lastBuildDate>Tue, 16 May 2017 18:46:26 GMT</lastBuildDate>
-		<item>
-			<title>Klient popytowy i nowe możliwości</title>
-			<link>http://blog.noknok.pl/posts/post1</link>
-			<description>Blog noknok.pl</description>
-			<enclosure url="http://blog.noknok.pl/assets/images/background.png" length="0" type="image" />
-			<guid>http://blog.noknok.pl/posts/post1</guid>
-			<pubDate>Tue, 16 May 2017 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Witaj na naszym blogu</title>
-			<link>http://blog.noknok.pl/posts/first%20blog</link>
-			<description>Blog noknok.pl</description>
-			<enclosure url="http://blog.noknok.pl/assets/images/background.png" length="0" type="image" />
-			<guid>http://blog.noknok.pl/posts/first%20blog</guid>
-			<pubDate>Thu, 04 May 2017 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Wed, 17 May 2017 06:09:24 GMT</pubDate>
+		<lastBuildDate>Wed, 17 May 2017 06:09:24 GMT</lastBuildDate>
 	</channel>
 </rss>

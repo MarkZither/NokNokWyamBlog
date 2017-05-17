@@ -1,26 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="http://blog.noknok.pl/" />
-	<id>http://blog.noknok.pl/</id>
-	<title>NokNok</title>
+	<link rel="self" href="/" />
+	<id>/</id>
+	<title>My Blog</title>
 	<rights>2017</rights>
-	<updated>2017-05-16T18:46:26Z</updated>
-	<logo>http://blog.noknok.pl/assets/images/background.png</logo>
-	<subtitle>Blog noknok.pl</subtitle>
-	<entry>
-		<link href="http://blog.noknok.pl/posts/post1" />
-		<link rel="enclosure" type="image" href="http://blog.noknok.pl/assets/images/background.png" />
-		<id>http://blog.noknok.pl/posts/post1</id>
-		<title>Klient popytowy i nowe możliwości</title>
-		<updated>2017-05-16T00:00:00Z</updated>
-		<summary>Blog noknok.pl</summary>
-	</entry>
-	<entry>
-		<link href="http://blog.noknok.pl/posts/first%20blog" />
-		<link rel="enclosure" type="image" href="http://blog.noknok.pl/assets/images/background.png" />
-		<id>http://blog.noknok.pl/posts/first%20blog</id>
-		<title>Witaj na naszym blogu</title>
-		<updated>2017-05-04T00:00:00Z</updated>
-		<summary>Blog noknok.pl</summary>
-	</entry>
+	<updated>2017-05-17T06:09:24Z</updated>
+	<subtitle>Welcome!</subtitle>
 </feed>

@@ -45,12 +45,12 @@ deploy:
   password:
     secure: cTTbrZUUpmm2XCSdRu1qnj0d6w4s7+bdXR4J+ttYG/s=
   artifact: output
-  
+
 build_script:
   - Wyam\wyam noknokwyamblog --recipe Blog --theme CleanBlog --output output
   - pwd
   - ls
-  - xcopy output\ ..\output\ /E
+  - xcopy output ..\output\ /E
 
 
 on_success:

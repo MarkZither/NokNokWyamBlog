@@ -3,7 +3,26 @@ Settings[BlogKeys.Description] = "Blog noknok.pl";
 Settings[BlogKeys.Intro] = "Witaj na naszym blogu!";
 Settings[BlogKeys.Title] = "NokNok";
 Settings[BlogKeys.Image] = "/assets/images/background.png";
-Settings[BlogKeys.HeaderTextColor] = "black";
 
 #n -p Wyam.Markdown
 #n -p Wyam.Yaml
+
+//Pipelines["Tags"].Clear();
+//Pipelines["Tags"].Add(
+//    ReadFiles("**/*.md"),
+//    WriteFiles(string.Format("tags/{0}.html", "test"))
+//);
+
+Pipelines[Blog.Tags].InsertAfter("Populate",
+    new Meta(Keys.RelativeFilePath, (doc, ctx) => GetValidFilePath(doc.FilePath(Keys.RelativeFilePath))));
+
+public FilePath GetValidFilePath(FilePath filePath)
+{
+    Console.WriteLine("In GetValidFilePath");
+    string dir = filePath.Directory.ToString();
+    Console.WriteLine(dir);
+    filePath = new FilePath(filePath.FullPath.ToLower().Replace("ą","a").Replace("ć","c").Replace("ę","e").Replace("ł","l").Replace("ń","n").Replace("ó","o").Replace("ś","s").Replace("ź","z").Replace("ż","z"));// "test" + filePath.FileName;
+     // Do whatever you need to the FilePath object here
+     return filePath;
+}
+

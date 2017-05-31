@@ -1,4 +1,3 @@
-
 Title: Zmiany, usprawnienia i nowości
 Published: 2017-05-29
 Tags:
@@ -6,6 +5,7 @@ Tags:
 - nowości
 - usprawnienia
 - NokNok MLS
+---
 
 Z przyjemnością informujemy, że w odpowiedzi na Wasze potrzeby wprowadziliśmy kilka istotnych zmian na stronie [noknok.pl](http://noknok.pl) oraz w aplikacji [NokNok MLS](https://play.google.com/store/apps/details?id=com.noknok.noknok&hl=pl). Wciąż jeszcze pracujemy nad nowymi usprawnieniami. O wszystkim dowiesz się w poście poniżej. Zmiany pogrupowaliśmy względem narzędzi.
 

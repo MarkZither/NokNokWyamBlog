@@ -25,11 +25,11 @@ Czytelny diagram
 
 Z diagramu można dowiedzieć się ile klientów wprowadził dany agent, czy był to klient kupujący czy najmujący oraz ile nawiązał kontaktów z innymi pośrednikami w sprawie ofert popytowych. 
 
-![enter image description here](https://lh3.googleusercontent.com/-Pw9_SEKrr3A/WWStxy-JpvI/AAAAAAAAAXs/gBIdadAahaEtsKrQ1fnZtwnMYa3NVCzBwCLcBGAs/s750/diagram.png "diagram.png")
+![enter image description here](/assets/images/diagram.png "diagram")
 
 Poniżej w tabeli przedstawione są dokładniejsze dane, uzupełnione o budżet klienta.
 
-![enter image description here](https://lh3.googleusercontent.com/-tUMPD1NC9PM/WWStmVMBpRI/AAAAAAAAAXk/JbKTV9t9eyI2nsxLV64Oql8r9-ckVgcjQCLcBGAs/s750/tabela.png "tabela.png")
+![enter image description here](/assets/images/tabela.png "tabela")
 
 Serdecznie zapraszamy do śledzenia aktywności swojego biura na noknok.pl.
 

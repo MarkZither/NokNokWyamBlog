@@ -18,9 +18,7 @@ Pipelines[Blog.Tags].InsertAfter("Populate",
 
 public FilePath GetValidFilePath(FilePath filePath)
 {
-    Console.WriteLine("In GetValidFilePath");
     string dir = filePath.Directory.ToString();
-    Console.WriteLine(dir);
     filePath = new FilePath(filePath.FullPath.ToLower().Replace("ą","a").Replace("ć","c").Replace("ę","e").Replace("ł","l").Replace("ń","n").Replace("ó","o").Replace("ś","s").Replace("ź","z").Replace("ż","z"));// "test" + filePath.FileName;
      // Do whatever you need to the FilePath object here
      return filePath;

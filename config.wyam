@@ -24,3 +24,5 @@ public FilePath GetValidFilePath(FilePath filePath)
      return filePath;
 }
 
+Pipelines[Blog.BlogPosts].InsertAfter("RelativeFilePath",
+    new Meta(Keys.RelativeFilePath, (doc, ctx) => GetValidFilePath(doc.FilePath(Keys.RelativeFilePath))));

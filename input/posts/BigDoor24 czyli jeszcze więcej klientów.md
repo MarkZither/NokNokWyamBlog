@@ -4,7 +4,7 @@ Published: 2017-08-14
 Tags:
 - nowości
 - NokNok MLS
-- BigDoor24.pl
+- BigDoor24
 - klient poszukujący
 
 ---

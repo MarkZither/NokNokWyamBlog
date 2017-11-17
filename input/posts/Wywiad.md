@@ -12,8 +12,6 @@ W analizowaniu danych pomogła nam dr inż. Annamaria Duszová (IOS, Kraków).
 
 Zapraszamy do lektury wywiadu przeprowadzonego przez Justynę Lianę, współzałożycielkę platofmy [noknok.pl](http://noknok.pl/).
 
-![enter image description here](https://lh3.googleusercontent.com/-M4Lwtb3LXLQ/Wg7Tp8A_puI/AAAAAAAAAZk/kSNvEi3C1h4VERwpJXNv4SDdzYT6RVFHQCLcBGAs/s700/INTERVIEW.jpg "INTERVIEW.jpg")
-
 
 ----------
 

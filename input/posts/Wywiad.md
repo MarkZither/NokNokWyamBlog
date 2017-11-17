@@ -8,7 +8,7 @@ Tags:
 
 W przeciągu ostatnich kilku miesięcy baza klientów [noknok.pl](http://noknok.pl/) znacznie się rozwinęła i liczy obecnie ponad 800 klientów poszukujących nieruchomości do kupienia lub wynajęcia. Pomyśleliśmy, że warto przyglądnąć się tym danym* i dokonać pierwszej analizy dotyczącej klientów popytowych. 
 
-W analizowaniu danych pomogła nam dr inż. Annamaria Duszová (AGH, Kraków). 
+W analizowaniu danych pomogła nam dr inż. Annamaria Duszová. 
 
 Zapraszamy do lektury wywiadu przeprowadzonego przez Justynę Lianę, współzałożycielkę platofmy [noknok.pl](http://noknok.pl/).
 

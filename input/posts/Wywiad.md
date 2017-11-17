@@ -10,7 +10,7 @@ W przeciągu ostatnich kilku miesięcy baza klientów [noknok.pl](http://noknok.
 
 W analizowaniu danych pomogła nam dr inż. Annamaria Duszová (IOS, Kraków). 
 
-Zapraszamy do lektury wywiadu przeprowadzonego przez Justynę Lianę, współzałożycielkę platofmy [noknok.pl](http://noknok.pl/).
+Zapraszamy do lektury wywiadu przeprowadzonego przez Justynę Lianę, współzałożycielkę platformy [noknok.pl](http://noknok.pl/).
 
 
 ----------

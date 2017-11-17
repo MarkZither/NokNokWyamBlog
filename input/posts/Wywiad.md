@@ -4,7 +4,7 @@ Tags:
 - klient popytowy
 - wywiad
 - statystyki
-
+---
 
 W przeciągu ostatnich kilku miesięcy baza klientów [noknok.pl](http://noknok.pl/) znacznie się rozwinęła i liczy obecnie ponad 800 klientów poszukujących nieruchomości do kupienia lub wynajęcia. Pomyśleliśmy, że warto przyglądnąć się tym danym* i dokonać pierwszej analizy dotyczącej klientów popytowych. 
 

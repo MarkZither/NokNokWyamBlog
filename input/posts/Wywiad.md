@@ -48,7 +48,7 @@ Zapraszamy do lektury wywiadu przeprowadzonego przez Justynę Lianę, współza�
 
 ::::::row
 :::col-xs-8 {.col-xs-offset-2}
->""Średni budżet klienta kupującego to 6 310 zł/m2. Najbardziej popularny klient [noknok.pl](http://noknok.pl/) to klient poszukujący mieszkania około 70 m2 do 467 000 zł.  ""
+>""Średni budżet klienta kupującego to 6 310 zł/m2. Najbardziej popularny klient [noknok.pl](http://noknok.pl/) to klient poszukujący mieszkania około 70 m2 do 467 000 zł.""
 :::
 :::col-xs-2
 ^^^![dr inż. Duszová](/assets/images/AM_S.png){.img-circle}
@@ -68,7 +68,7 @@ Zapraszamy do lektury wywiadu przeprowadzonego przez Justynę Lianę, współza�
 
 ::::::row
 :::col-xs-8 {.col-xs-offset-2}
->""Tutaj należy zaznaczyć, że ograniczamy się do danych tylko z [noknok.pl](http://noknok.pl/) - są to klienci wprowadzeni przez pośredników nieruchomości. Jak rozumiem, agent niekoniecznie wprowadza wszystkich klientów, zwykle wprowadza klientów, dla których na dany moment nie ma w swojej ofercie odpowiedniej nieruchomości. Spójrzmy także na dane z portalu [Morizon.pl](http://morizon.pl/) odnośnie średniej ceny mieszkania w Krakowie. Średnia cena 1 m2 w październiku 2017  to 7407 zł (https://www.morizon.pl/ceny/krakow/). Różnica wynosi około 15%. Klient sprzedający chce zarobić jak najwięcej, nabywca chce kupić możliwie jak najtaniej – nie ma w tym nic zaskakującego. Sugeruje to jednak, że dane [noknok.pl](http://noknok.pl/) są poprawne. ""
+>""Tutaj należy zaznaczyć, że ograniczamy się do danych tylko z [noknok.pl](http://noknok.pl/) - są to klienci wprowadzeni przez pośredników nieruchomości. Jak rozumiem, agent niekoniecznie wprowadza wszystkich klientów, zwykle wprowadza klientów, dla których na dany moment nie ma w swojej ofercie odpowiedniej nieruchomości. Spójrzmy także na dane z portalu [Morizon.pl](http://morizon.pl/) odnośnie średniej ceny mieszkania w Krakowie. Średnia cena 1 m2 w październiku 2017  to 7407 zł (https://www.morizon.pl/ceny/krakow/). Różnica wynosi około 15%. Klient sprzedający chce zarobić jak najwięcej, nabywca chce kupić możliwie jak najtaniej – nie ma w tym nic zaskakującego. Sugeruje to jednak, że dane [noknok.pl](http://noknok.pl/) są poprawne.""
 :::
 :::col-xs-2
 ^^^![dr inż. Duszová](/assets/images/AM_S.png){.img-circle}
@@ -88,7 +88,7 @@ Zapraszamy do lektury wywiadu przeprowadzonego przez Justynę Lianę, współza�
 
 ::::::row
 :::col-xs-8 {.col-xs-offset-2}
->""Przeciętny najemca z [noknok.pl](http://noknok.pl/) szuka w Krakowie dwupokojowego lokum, około 55 m2, do 1928 zł. Możemy założyć, że mówimy tutaj o studentach i młodych rodzinach. ""
+>""Przeciętny najemca z [noknok.pl](http://noknok.pl/) szuka w Krakowie dwupokojowego lokum, około 55 m2, do 1928 zł. Możemy założyć, że mówimy tutaj o studentach i młodych rodzinach.""
 :::
 :::col-xs-2
 ^^^![dr inż. Duszová](/assets/images/AM_S.png){.img-circle}

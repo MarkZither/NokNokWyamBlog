@@ -41,7 +41,7 @@ artifacts:
 
 deploy:
 - provider: FTP
-  host: noknok.com.pl
+  host: noknok.pl
   protocol: ftp
   username: jnaughton-AppVeyorBlog
   password:

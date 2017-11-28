@@ -4,29 +4,19 @@ Tags:
 - klient popytowy współpraca
 - wyszukiwarka klientów
 - aplikacja
-
 ---
-
-**
 
 Klienci poszukujący nieruchomości z rynku wtórnego w Krakowie.
 --------------------------------------------------------------
-
-**
    
 Poniżej znajdziesz tabelę klientów kupujących [noknok.pl](https://noknok.pl/Home/?pk_campaign=blast&pk_kwd=20171127) według dzielnic.
 Klienci są reprezentowani przez agencje, które nie pobierają prowizji od swoich klientów,  a Ty zachowasz całą prowizję dla siebie.
 
 Całkowity budżet klientów to ponad 21.8 mln zł.
+
 **Sprawdź ile Ty możesz zarobić.**
-
-
 ----------
-
-
 ![enter image description here](https://lh3.googleusercontent.com/-oA6X2dcDLN0/Wh0XEmIsbpI/AAAAAAAAAaM/xex0fhynERo7-Dl2B9B3C-0CDj1K0hjTgCLcBGAs/s700/tabela_Final_FINAL.jpg "tabela_Final_FINAL.jpg")
-
-
 ----------
 
 

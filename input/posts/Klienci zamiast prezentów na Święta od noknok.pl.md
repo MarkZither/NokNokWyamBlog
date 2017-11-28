@@ -5,7 +5,7 @@ Tags:
 - wyszukiwarka klientów
 - aplikacja
 
-***
+---
 
 **
 

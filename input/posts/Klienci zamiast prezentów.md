@@ -1,4 +1,4 @@
-﻿Titile: Klienci zamiast prezentów na Święta od noknok.pl
+Title: Klienci zamiast prezentów na Święta od noknok.pl
 Published: 2017-11-28
 Tags:
 - klient popytowy współpraca

@@ -4,7 +4,7 @@
 	<id>http://blog.noknok.pl/</id>
 	<title>NokNok</title>
 	<rights>2017</rights>
-	<updated>2017-11-30T10:22:34Z</updated>
+	<updated>2017-11-30T13:58:42Z</updated>
 	<logo>http://blog.noknok.pl/assets/images/background.png</logo>
 	<subtitle>Blog noknok.pl</subtitle>
 	<entry>
@@ -18,7 +18,163 @@
 Klienci są reprezentowani przez agencje, które nie pobierają prowizji od swoich klientów,  a Ty zachowasz całą prowizję dla siebie.&lt;/p&gt;
 &lt;p&gt;Całkowity budżet klientów to ponad 21.8 mln zł.&lt;/p&gt;
 &lt;h2 id="sprawdz-ile-ty-mozesz-zarobic"&gt;&lt;strong&gt;Sprawdź ile Ty możesz zarobić.&lt;/strong&gt;&lt;/h2&gt;
-&lt;h2 id="enter-image-description-here"&gt;&lt;img src="https://lh3.googleusercontent.com/-oA6X2dcDLN0/Wh0XEmIsbpI/AAAAAAAAAaM/xex0fhynERo7-Dl2B9B3C-0CDj1K0hjTgCLcBGAs/s700/tabela_Final_FINAL.jpg" class="img-fluid" alt="enter image description here" title="tabela_Final_FINAL.jpg" /&gt;&lt;/h2&gt;
+&lt;style TYPE="text/css"&gt;
+.table, .table th, .table td{border:1px solid black}
+.table td:first-child,  th{background-color:#F3F1E4;}
+.table tr:last-child{font-weight:bold;}
+&lt;/style&gt;
+&lt;table class="table"&gt;
+&lt;col style="width:20%"&gt;
+&lt;col style="width:20%"&gt;
+&lt;col style="width:20%"&gt;
+&lt;col style="width:20%"&gt;
+&lt;col style="width:20%"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Lokalizacja&lt;/th&gt;
+&lt;th&gt;Liczba Klientów
+poszukujących
+mieszkań&lt;/th&gt;
+&lt;th&gt;Suma budżetów&lt;/th&gt;
+&lt;th&gt;Liczba Klientów
+poszukujących
+domów&lt;/th&gt;
+&lt;th&gt;Suma budżetów&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Bieżanów&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;690 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bieżanów-Prokocim&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;300 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bronowice&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;3 310 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Centrum&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1 350 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Czyżyny&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;3 299 999&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;400 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dębniki&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 550 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Grzegórzki&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;520 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Krowodrza&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;720 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mistrzejowice&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1 140 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nowa Huta&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 540 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Podgórze&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;550 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Prądnik Biały&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;2 560 000&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;400 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Prądnik Czerwony&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;1 740 000&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;400 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wola Justowska&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;300 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zwierzyniec&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;300 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dowolna - w
+obrębie miasta
+Krakowa&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;300 000&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dowolna - poza
+miastem Kraków&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SUMA&lt;/td&gt;
+&lt;td&gt;66&lt;/td&gt;
+&lt;td&gt;20 169 999&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1 700 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
 &lt;p&gt;Aby zobaczyć szczegóły dotyczące tych klientów i dane kontaktowe do agentów prowadzących, załóż darmowe konto i zaloguj się na &lt;a href="https://noknok.pl/Home/?pk_campaign=blast&amp;amp;pk_kwd=20171127"&gt;noknok.pl&lt;/a&gt;.
 Setki innych klientów kupujących i najmujących czeka na Twoje oferty nieruchomości.&lt;/p&gt;
 &lt;p&gt;Masz klienta i szukasz dla niego mieszkania? Dodaj i udostępnij go innym agentom.&lt;/p&gt;
@@ -299,5 +455,40 @@ Już teraz możesz korzystać z aplikacji NokNok MLS na swoim Windows Phone, tab
 </content>
 		<summary>&lt;p&gt;Tak jak już wspomnieliśmy we wprowadzeniu, na blogu będziemy zamieszczać informacje o wszelkich zmianach na naszej platformie i w aplikacji mobilnej. Zapraszamy do regularnego odwiedzania naszego bloga.
 Już teraz możesz korzystać z aplikacji NokNok MLS na swoim Windows Phone, tablecie oraz Windowsie 10. &lt;a href="https://www.microsoft.com/en-gb/store/p/noknok-mls/9n337d06v5xr"&gt;Wypróbuj już dziś!&lt;/a&gt;.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="http://blog.noknok.pl/posts/konkurs" />
+		<link rel="enclosure" type="image" href="http://blog.noknok.pl/assets/images/background.png" />
+		<id>http://blog.noknok.pl/posts/konkurs</id>
+		<title>Konkurs</title>
+		<updated>2016-12-01T00:00:00Z</updated>
+		<content>&lt;h1 id="konkurs-popularne-dzielnice-krakowa-dla-klientow-z-noknok.pl"&gt;Konkurs - Popularne dzielnice Krakowa dla klientów z noknok.pl&lt;/h1&gt;
+&lt;div id="fb-root"&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&amp;version=v2.11&amp;appId=322170008119044';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+&lt;p&gt;Jesteś agentem nieruchomości? Chcesz wygrać 1000 zł jako dodatek do świątecznej premii oraz butelkę szampana dla Twojej agencji?
+Jeśli tak – przygotowaliśmy dla Ciebie konkurs.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://noknok.pl" target="_blank"&gt;&lt;img src="https://noknok.pl/images/logo.png" class="img-fluid" alt="NokNok MLS" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Na &lt;a href="https://noknok.pl" target="_blank"&gt;noknok.pl&lt;/a&gt;&lt;sup&gt;&lt;i class="glyphicon glyphicon-new-window small" style="font-size:1rem;"&gt;&lt;/i&gt;&lt;/sup&gt; mamy już okrągły tysiąc klientów popytowych, w związku z tym okrągły tysiąc złotych może trafić do Twojej kieszeni. Aby go zgarnąć, wystarczy odpowiedzieć na dwa pytania konkursowe poniżej.&lt;/p&gt;
+&lt;iframe src='https://survey.zohopublic.com/zs/BjB0E4' frameborder='0' style='height:780px;width:100%;' marginwidth='0' marginheight='0' scrolling='off'&gt;&lt;/iframe&gt;
+&lt;p&gt;Zwycięzca zostanie wybrany pośród agentów nieruchomości, którzy dobrze odpowiedzieli na pytania oraz polubili nas na Facebooku. &lt;div class="fb-like" data-href="https://facebook.com/noknok.pl.mls/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="false"&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-xs-12"&gt;&lt;div class="fb-share-button" data-href="https://blog.noknok.pl/posts/competition.html" data-layout="button" data-size="large" data-mobile-iframe="true"&gt;&lt;a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblog.noknok.pl%2Fposts%2Fcompetition.html&amp;amp;src=sdkpreparse"&gt;Share&lt;/a&gt;&lt;/div&gt; to swoim znajomym, aby zwiększyć swoje szanse na świąteczny bonus.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="warunki-konkursu"&gt;Warunki konkursu&lt;/h2&gt;
+&lt;p&gt;Popularność dzielnic zostanie określona według wprowadzonych na noknok.pl klientów kupujących i najmujących w okresie od 01.10.2017 do 31.12.2017.
+Jeden agent może zagłosować jeden raz.&lt;/p&gt;
+&lt;div class="row"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;&lt;/div&gt;
+</content>
+		<summary>&lt;p&gt;Jesteś agentem nieruchomości? Chcesz wygrać 1000 zł jako dodatek do świątecznej premii oraz butelkę szampana dla Twojej agencji?
+Jeśli tak – przygotowaliśmy dla Ciebie konkurs.&lt;/p&gt;</summary>
 	</entry>
 </feed>

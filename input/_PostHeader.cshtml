@@ -13,7 +13,7 @@
     <div class="meta">        
         @if (Published != default(DateTime))
         {
-            <text>Published on @Published.ToLongDateString()<br></text>   
+            <text><!--Published on -->@Published.ToLongDateString()<br></text>   
         }
         <a href="@Context.GetLink(Model, true)#disqus_thread" data-disqus-identifier="@Model.FilePath(Keys.RelativeFilePath).FileNameWithoutExtension.FullPath" async></a>
     </div>

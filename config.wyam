@@ -26,3 +26,17 @@ public FilePath GetValidFilePath(FilePath filePath)
 
 Pipelines[Blog.BlogPosts].InsertAfter("RelativeFilePath",
     new Meta(Keys.RelativeFilePath, (doc, ctx) => GetValidFilePath(doc.FilePath(Keys.RelativeFilePath))));
+
+    Pipelines.InsertBefore(Blog.BlogArchive,
+    (IPipeline)new Wyam.Web.Pipelines.Archive(
+        "RevisedBlogArchive", // You can name the new pipeline whatever you want
+        new Wyam.Web.Pipelines.ArchiveSettings
+        {
+            Pipelines = new string[] { Blog.BlogPosts },
+            TemplateFile = ctx => "_Archive.cshtml",
+            Layout = "/_Layout.cshtml",
+            PageSize = ctx => ctx.Get(BlogKeys.ArchivePageSize, int.MaxValue),
+            Title = (doc, ctx) => "Archivum",
+            RelativePath = (doc, ctx) => $"{ctx.DirectoryPath(BlogKeys.PostsPath).FullPath}"
+        }));
+Pipelines.Remove(Blog.BlogArchive);

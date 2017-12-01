@@ -5,8 +5,44 @@
 		<link>http://blog.noknok.pl/</link>
 		<description>Blog noknok.pl</description>
 		<copyright>2017</copyright>
-		<pubDate>Fri, 01 Dec 2017 08:58:36 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Dec 2017 08:58:36 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Dec 2017 09:19:14 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Dec 2017 09:19:14 GMT</lastBuildDate>
+		<item>
+			<title>Konkurs</title>
+			<link>http://blog.noknok.pl/posts/konkurs</link>
+			<description>&lt;p&gt;Jesteś agentem nieruchomości? Chcesz wygrać 1000 zł jako dodatek do świątecznej premii oraz butelkę szampana dla Twojej agencji?
+Jeśli tak – przygotowaliśmy dla Ciebie konkurs.&lt;/p&gt;</description>
+			<enclosure url="http://blog.noknok.pl/assets/images/background.png" length="0" type="image" />
+			<guid>http://blog.noknok.pl/posts/konkurs</guid>
+			<pubDate>Fri, 01 Dec 2017 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;h1 id="konkurs-popularne-dzielnice-krakowa-dla-klientow-z-noknok.pl"&gt;Konkurs - Popularne dzielnice Krakowa dla klientów z noknok.pl&lt;/h1&gt;
+&lt;div id="fb-root"&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&amp;version=v2.11&amp;appId=322170008119044';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+&lt;p&gt;Jesteś agentem nieruchomości? Chcesz wygrać 1000 zł jako dodatek do świątecznej premii oraz butelkę szampana dla Twojej agencji?
+Jeśli tak – przygotowaliśmy dla Ciebie konkurs.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://noknok.pl" target="_blank"&gt;&lt;img src="https://noknok.pl/images/logo.png" class="img-fluid" alt="NokNok MLS" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Na &lt;a href="https://noknok.pl" target="_blank"&gt;noknok.pl&lt;/a&gt;&lt;sup&gt;&lt;i class="glyphicon glyphicon-new-window small" style="font-size:1rem;"&gt;&lt;/i&gt;&lt;/sup&gt; mamy już okrągły tysiąc klientów popytowych, w związku z tym okrągły tysiąc złotych może trafić do Twojej kieszeni. Aby go zgarnąć, wystarczy odpowiedzieć na dwa pytania konkursowe poniżej.&lt;/p&gt;
+&lt;iframe src='https://survey.zohopublic.com/zs/BjB0E4' frameborder='0' style='height:780px;width:100%;' marginwidth='0' marginheight='0' scrolling='off'&gt;&lt;/iframe&gt;
+&lt;p&gt;Zwycięzca zostanie wybrany pośród agentów nieruchomości, którzy dobrze odpowiedzieli na pytania oraz polubili nas na Facebooku. &lt;div class="fb-like" data-href="https://facebook.com/noknok.pl.mls/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="false"&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-xs-12"&gt;&lt;div class="fb-share-button" data-href="https://blog.noknok.pl/posts/competition.html" data-layout="button" data-size="large" data-mobile-iframe="true"&gt;&lt;a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblog.noknok.pl%2Fposts%2Fcompetition.html&amp;amp;src=sdkpreparse"&gt;Share&lt;/a&gt;&lt;/div&gt; to swoim znajomym, aby zwiększyć swoje szanse na świąteczny bonus.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="warunki-konkursu"&gt;Warunki konkursu&lt;/h2&gt;
+&lt;p&gt;Popularność dzielnic zostanie określona według wprowadzonych na noknok.pl klientów kupujących i najmujących w okresie od 01.10.2017 do 31.12.2017.
+Jeden agent może zagłosować jeden raz.
+Konkurs trwa do 04.01.2018 r.&lt;/p&gt;
+&lt;div class="row"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;&lt;/div&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Klienci zamiast prezentów na Święta od noknok.pl</title>
 			<link>http://blog.noknok.pl/posts/klienci%20zamiast%20prezentow</link>
@@ -454,42 +490,6 @@ Już teraz możesz korzystać z aplikacji NokNok MLS na swoim Windows Phone, tab
 			<content:encoded>&lt;h1 id="witaj-na-naszym-blogu"&gt;Witaj na naszym blogu&lt;/h1&gt;
 &lt;p&gt;Tak jak już wspomnieliśmy we wprowadzeniu, na blogu będziemy zamieszczać informacje o wszelkich zmianach na naszej platformie i w aplikacji mobilnej. Zapraszamy do regularnego odwiedzania naszego bloga.
 Już teraz możesz korzystać z aplikacji NokNok MLS na swoim Windows Phone, tablecie oraz Windowsie 10. &lt;a href="https://www.microsoft.com/en-gb/store/p/noknok-mls/9n337d06v5xr"&gt;Wypróbuj już dziś!&lt;/a&gt;.&lt;/p&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>Konkurs</title>
-			<link>http://blog.noknok.pl/posts/konkurs</link>
-			<description>&lt;p&gt;Jesteś agentem nieruchomości? Chcesz wygrać 1000 zł jako dodatek do świątecznej premii oraz butelkę szampana dla Twojej agencji?
-Jeśli tak – przygotowaliśmy dla Ciebie konkurs.&lt;/p&gt;</description>
-			<enclosure url="http://blog.noknok.pl/assets/images/background.png" length="0" type="image" />
-			<guid>http://blog.noknok.pl/posts/konkurs</guid>
-			<pubDate>Thu, 01 Dec 2016 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;h1 id="konkurs-popularne-dzielnice-krakowa-dla-klientow-z-noknok.pl"&gt;Konkurs - Popularne dzielnice Krakowa dla klientów z noknok.pl&lt;/h1&gt;
-&lt;div id="fb-root"&gt;&lt;/div&gt;
-&lt;script&gt;(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&amp;version=v2.11&amp;appId=322170008119044';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
-&lt;p&gt;Jesteś agentem nieruchomości? Chcesz wygrać 1000 zł jako dodatek do świątecznej premii oraz butelkę szampana dla Twojej agencji?
-Jeśli tak – przygotowaliśmy dla Ciebie konkurs.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://noknok.pl" target="_blank"&gt;&lt;img src="https://noknok.pl/images/logo.png" class="img-fluid" alt="NokNok MLS" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Na &lt;a href="https://noknok.pl" target="_blank"&gt;noknok.pl&lt;/a&gt;&lt;sup&gt;&lt;i class="glyphicon glyphicon-new-window small" style="font-size:1rem;"&gt;&lt;/i&gt;&lt;/sup&gt; mamy już okrągły tysiąc klientów popytowych, w związku z tym okrągły tysiąc złotych może trafić do Twojej kieszeni. Aby go zgarnąć, wystarczy odpowiedzieć na dwa pytania konkursowe poniżej.&lt;/p&gt;
-&lt;iframe src='https://survey.zohopublic.com/zs/BjB0E4' frameborder='0' style='height:780px;width:100%;' marginwidth='0' marginheight='0' scrolling='off'&gt;&lt;/iframe&gt;
-&lt;p&gt;Zwycięzca zostanie wybrany pośród agentów nieruchomości, którzy dobrze odpowiedzieli na pytania oraz polubili nas na Facebooku. &lt;div class="fb-like" data-href="https://facebook.com/noknok.pl.mls/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="false"&gt;&lt;/div&gt;&lt;/p&gt;
-&lt;div class="row"&gt;
-&lt;div class="col-xs-12"&gt;&lt;div class="fb-share-button" data-href="https://blog.noknok.pl/posts/competition.html" data-layout="button" data-size="large" data-mobile-iframe="true"&gt;&lt;a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblog.noknok.pl%2Fposts%2Fcompetition.html&amp;amp;src=sdkpreparse"&gt;Share&lt;/a&gt;&lt;/div&gt; to swoim znajomym, aby zwiększyć swoje szanse na świąteczny bonus.
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id="warunki-konkursu"&gt;Warunki konkursu&lt;/h2&gt;
-&lt;p&gt;Popularność dzielnic zostanie określona według wprowadzonych na noknok.pl klientów kupujących i najmujących w okresie od 01.10.2017 do 31.12.2017.
-Jeden agent może zagłosować jeden raz.
-Konkurs trwa do 04.01.2018 r.&lt;/p&gt;
-&lt;div class="row"&gt;&lt;/div&gt;
-&lt;div class="row"&gt;&lt;/div&gt;
-&lt;div class="row"&gt;&lt;/div&gt;
 </content:encoded>
 		</item>
 	</channel>

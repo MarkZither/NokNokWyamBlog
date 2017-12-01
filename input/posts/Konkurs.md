@@ -1,4 +1,4 @@
-Title: Konkurs
+7Title: Konkurs
 Published: 2016-12-1
 Tags:
 - konkurs

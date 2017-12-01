@@ -1,5 +1,5 @@
 Title: Konkurs
-Published: 2016-12-1
+Published: 2017-12-1
 Tags:
 - konkurs
 - klienci popytowi

@@ -36,7 +36,7 @@ Zwycięzca zostanie wybrany pośród agentów nieruchomości, którzy dobrze odp
 
 Popularność dzielnic zostanie określona według wprowadzonych na noknok.pl klientów kupujących i najmujących w okresie od 01.10.2017 do 31.12.2017.
 Jeden agent może zagłosować jeden raz.
-
+Konkurs trwa do 04.01.2018 r.
 
 
 <div class="row"></div>

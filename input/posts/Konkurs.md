@@ -28,7 +28,7 @@ Zwycięzca zostanie wybrany pośród agentów nieruchomości, którzy dobrze odp
 
 ::::::row
 :::col-xs-12
-<div class="fb-share-button" data-href="https://blog.noknok.pl/posts/competition.html" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblog.noknok.pl%2Fposts%2Fcompetition.html&amp;src=sdkpreparse">Share</a></div> to swoim znajomym, aby zwiększyć swoje szanse na świąteczny bonus.
+<div class="fb-share-button" data-href="https://blog.noknok.pl/posts/konkurs" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblog.noknok.pl%2Fposts%2Fcompetition.html&amp;src=sdkpreparse">Share</a></div> to swoim znajomym, aby zwiększyć swoje szanse na świąteczny bonus.
 :::
 ::::::
 

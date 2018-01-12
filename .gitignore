@@ -2,3 +2,5 @@ output/
 Wyam/
 wwwroot/
 packages.xml
+config.wyam.hash
+config.wyam.dll

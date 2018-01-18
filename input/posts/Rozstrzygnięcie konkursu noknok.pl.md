@@ -17,7 +17,7 @@ Zwycięzca otrzymał 1,000 zł oraz butelkę szampana za wskazanie najbardziej o
 
 Nagrodę wręczył nasz Specjalista ds. Klienta, Mateusz Gawlak.
 
-Jeśli chcesz zapoznać się ze statystykami z czwartego kwartału 2017 roku, możesz to zrobić [tutaj](https://blog.noknok.pl/posts/Statystyki%20klient%C3%B3w%20z%20IV%20kwarta%C5%82u%202017%20r.) lub zalogować się na swoje konto firmowe [noknok.pl](http://noknok.pl/) i przejść do zakładki Statystyki.
+Jeśli chcesz zapoznać się ze statystykami z czwartego kwartału 2017 roku, możesz to zrobić [tutaj](https://blog.noknok.pl/posts/statystyki%20klientow%20z%20iv%20kwartalu%202017%20r) lub zalogować się na swoje konto firmowe [noknok.pl](http://noknok.pl/) i przejść do zakładki Statystyki.
 
 Dziękujemy wszystkim uczestnikom konkursu i jeszcze raz gratulujemy zwycięzcy!
 

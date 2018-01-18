@@ -4,7 +4,7 @@
 	<id>http://blog.noknok.pl/</id>
 	<title>NokNok</title>
 	<rights>2018</rights>
-	<updated>2018-01-18T10:28:21Z</updated>
+	<updated>2018-01-18T10:40:43Z</updated>
 	<logo>http://blog.noknok.pl/assets/images/background.png</logo>
 	<subtitle>Blog noknok.pl</subtitle>
 	<entry>
@@ -19,7 +19,7 @@
 &lt;p&gt;Nagrodę wręczył nasz Specjalista ds. Klienta, Mateusz Gawlak.&lt;/p&gt;
 &lt;p&gt;Jeśli chcesz zapoznać się ze statystykami z czwartego kwartału 2017 roku, możesz to zrobić &lt;a href="https://blog.noknok.pl/posts/statystyki%20klientow%20z%20iv%20kwartalu%202017%20r"&gt;tutaj&lt;/a&gt; lub zalogować się na swoje konto firmowe &lt;a href="http://noknok.pl/"&gt;noknok.pl&lt;/a&gt; i przejść do zakładki Statystyki.&lt;/p&gt;
 &lt;p&gt;Dziękujemy wszystkim uczestnikom konkursu i jeszcze raz gratulujemy zwycięzcy!&lt;/p&gt;
-&lt;p&gt;&lt;img src="IMG_6522_small.png" class="img-fluid" alt="IMG_6522" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../assets/images/IMG_6522_small.png" class="img-fluid img-responsive" alt="IMG_6522" /&gt;&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Gratulujemy panu Januszowi z agencji Obiekt Nieruchomości Janusz Pańczyk wygranej w naszym konkursie.&lt;/p&gt;</summary>
 	</entry>

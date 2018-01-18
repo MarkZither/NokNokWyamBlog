@@ -21,5 +21,5 @@ Jeśli chcesz zapoznać się ze statystykami z czwartego kwartału 2017 roku, mo
 
 Dziękujemy wszystkim uczestnikom konkursu i jeszcze raz gratulujemy zwycięzcy!
 
-![IMG_6522](IMG_6522_small.png)
+![IMG_6522](../assets/images/IMG_6522_small.png){.img-fluid .img-responsive}
 

@@ -4,9 +4,25 @@
 	<id>http://blog.noknok.pl/</id>
 	<title>NokNok</title>
 	<rights>2018</rights>
-	<updated>2018-01-18T09:42:39Z</updated>
+	<updated>2018-01-18T09:57:45Z</updated>
 	<logo>http://blog.noknok.pl/assets/images/background.png</logo>
 	<subtitle>Blog noknok.pl</subtitle>
+	<entry>
+		<link href="http://blog.noknok.pl/posts/rozstrzygniecie%20konkursu%20noknok.pl" />
+		<link rel="enclosure" type="image" href="http://blog.noknok.pl/assets/images/background.png" />
+		<id>http://blog.noknok.pl/posts/rozstrzygniecie%20konkursu%20noknok.pl</id>
+		<title>Rozstrzygnięcie konkursu noknok.pl</title>
+		<updated>2018-01-18T00:00:00Z</updated>
+		<content>&lt;h2 id="rozstrzygniecie-konkursu-noknok.pl"&gt;Rozstrzygnięcie konkursu noknok.pl&lt;/h2&gt;
+&lt;p&gt;Gratulujemy panu Januszowi z agencji Obiekt Nieruchomości Janusz Pańczyk wygranej w naszym konkursie.&lt;/p&gt;
+&lt;p&gt;Zwycięzca otrzymał 1,000 zł oraz butelkę szampana za wskazanie najbardziej oraz najmniej popularniej dzielnicy Krakowa wśród klientów &lt;a href="http://noknok.pl/"&gt;noknok.pl&lt;/a&gt; zgodnie z danymi z ostatniego kwartału.&lt;/p&gt;
+&lt;p&gt;Nagrodę wręczył nasz Specjalista ds. Klienta, Mateusz Gawlak.&lt;/p&gt;
+&lt;p&gt;Jeśli chcesz zapoznać się ze statystykami z czwartego kwartału 2017 roku, możesz to zrobić &lt;a href="https://blog.noknok.pl/posts/Statystyki%20klient%C3%B3w%20z%20IV%20kwarta%C5%82u%202017%20r."&gt;tutaj&lt;/a&gt; lub zalogować się na swoje konto firmowe &lt;a href="http://noknok.pl/"&gt;noknok.pl&lt;/a&gt; i przejść do zakładki Statystyki.&lt;/p&gt;
+&lt;p&gt;Dziękujemy wszystkim uczestnikom konkursu i jeszcze raz gratulujemy zwycięzcy!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://drive.google.com/open?id=1pvFHgt1HjCv6BJmugDyLWFTBjZxp6zKF" class="img-fluid" alt="IMG_6522" /&gt;&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Gratulujemy panu Januszowi z agencji Obiekt Nieruchomości Janusz Pańczyk wygranej w naszym konkursie.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://blog.noknok.pl/posts/statystyki%20klientow%20z%20iv%20kwartalu%202017%20r" />
 		<link rel="enclosure" type="image" href="http://blog.noknok.pl/assets/images/background.png" />
@@ -28,22 +44,6 @@
 &lt;p&gt;Aby uzyskać dostęp do pełnych statystyk i stać się częścią dynamicznie rozwijającej się sieci agentów współpracujących przez &lt;a href="http://noknok.pl/"&gt;noknok.pl&lt;/a&gt;, załóż konto swojej agencji i korzystaj z naszych usług za darmo.&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;W dzisiejszym poście chcemy podzielić się z Wami statystykami &lt;a href="http://noknok.pl/"&gt;noknok.pl&lt;/a&gt; z ostatniego kwartału 2017 r.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://blog.noknok.pl/posts/rozstrzygniecie%20konkursu%20noknok.pl" />
-		<link rel="enclosure" type="image" href="http://blog.noknok.pl/assets/images/background.png" />
-		<id>http://blog.noknok.pl/posts/rozstrzygniecie%20konkursu%20noknok.pl</id>
-		<title>Rozstrzygnięcie konkursu noknok.pl</title>
-		<updated>2018-01-18T00:00:00Z</updated>
-		<content>&lt;h2 id="rozstrzygniecie-konkursu-noknok.pl"&gt;Rozstrzygnięcie konkursu noknok.pl&lt;/h2&gt;
-&lt;p&gt;Gratulujemy panu Januszowi z agencji Obiekt Nieruchomości Janusz Pańczyk wygranej w naszym konkursie.&lt;/p&gt;
-&lt;p&gt;Zwycięzca otrzymał 1,000 zł oraz butelkę szampana za wskazanie najbardziej oraz najmniej popularniej dzielnicy Krakowa wśród klientów &lt;a href="http://noknok.pl/"&gt;noknok.pl&lt;/a&gt; zgodnie z danymi z ostatniego kwartału.&lt;/p&gt;
-&lt;p&gt;Nagrodę wręczył nasz Specjalista ds. Klienta, Mateusz Gawlak.&lt;/p&gt;
-&lt;p&gt;Jeśli chcesz zapoznać się ze statystykami z czwartego kwartału 2017 roku, możesz to zrobić &lt;a href="https://blog.noknok.pl/posts/Statystyki%20klient%C3%B3w%20z%20IV%20kwarta%C5%82u%202017%20r."&gt;tutaj&lt;/a&gt; lub zalogować się na swoje konto firmowe &lt;a href="http://noknok.pl/"&gt;noknok.pl&lt;/a&gt; i przejść do zakładki Statystyki.&lt;/p&gt;
-&lt;p&gt;Dziękujemy wszystkim uczestnikom konkursu i jeszcze raz gratulujemy zwycięzcy!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://drive.google.com/open?id=1pvFHgt1HjCv6BJmugDyLWFTBjZxp6zKF" class="img-fluid" alt="IMG_6522" /&gt;&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;Gratulujemy panu Januszowi z agencji Obiekt Nieruchomości Janusz Pańczyk wygranej w naszym konkursie.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://blog.noknok.pl/posts/konkurs" />

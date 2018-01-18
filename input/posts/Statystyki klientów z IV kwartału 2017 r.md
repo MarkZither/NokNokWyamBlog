@@ -17,7 +17,7 @@ Analizując blisko dwa tysiące ofert klientów szukających nieruchomości do k
 
 Poniżej szczegóły dotyczące najpopularniejszej dzielnicy Krakowa, a więcej danych znajdziecie w zakładce Statysyki po zalogowaniu się na swoje konto [noknok.pl](http://noknok.pl/).
 
-![stats_q4](https://drive.google.com/open?id=1oml7wffqZ0x42jJes6naaT1yUGdkNQad)
+![stats_q4](../assets/images/Stats_q4.png){.img-fluid .img-responsive}
 
 
 
@@ -27,7 +27,7 @@ Najbardziej pożądaną dzielnicą Krakowa dla klientów kupujących z noknok.pl
 
 Prawie wszyscy klienci poszukują miejsc postojowych lub garażu.
 
-![Krowodrza](https://drive.google.com/open?id=1wu3GSA95SYWN4SUz6HqCubCVXh3R0GD_)
+![Krowodrza](../assets/images/Krowodrza.png){.img-fluid .img-responsive}
 
 Zbliżony trend oraz budżet dotyczy dzielnic takich jak: Prądnik Biały oraz Dębniki. 
 

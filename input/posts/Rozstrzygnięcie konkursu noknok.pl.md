@@ -11,6 +11,9 @@ Tags:
 
 Rozstrzygnięcie konkursu noknok.pl
 -------------------------------------------------------------
+
+![IMG_6522](../assets/images/IMG_6522_small.png){.img-fluid .img-responsive}
+
 Gratulujemy panu Januszowi z agencji Obiekt Nieruchomości Janusz Pańczyk wygranej w naszym konkursie.
 
 Zwycięzca otrzymał 1,000 zł oraz butelkę szampana za wskazanie najbardziej oraz najmniej popularniej dzielnicy Krakowa wśród klientów [noknok.pl](http://noknok.pl/) zgodnie z danymi z ostatniego kwartału.
@@ -21,5 +24,4 @@ Jeśli chcesz zapoznać się ze statystykami z czwartego kwartału 2017 roku, mo
 
 Dziękujemy wszystkim uczestnikom konkursu i jeszcze raz gratulujemy zwycięzcy!
 
-![IMG_6522](../assets/images/IMG_6522_small.png){.img-fluid .img-responsive}
 

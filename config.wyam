@@ -7,11 +7,8 @@ Settings[BlogKeys.Image] = "/assets/images/background.png";
 #n -p Wyam.Markdown
 #n -p Wyam.Yaml
 
-//Pipelines["Tags"].Clear();
-//Pipelines["Tags"].Add(
-//    ReadFiles("**/*.md"),
-//    WriteFiles(string.Format("tags/{0}.html", "test"))
-//);
+#theme CleanBlog
+#recipe Blog
 
 Pipelines[Blog.Tags].InsertAfter("Populate",
     new Meta(Keys.RelativeFilePath, (doc, ctx) => GetValidFilePath(doc.FilePath(Keys.RelativeFilePath))));
